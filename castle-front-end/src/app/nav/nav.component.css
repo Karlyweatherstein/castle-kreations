@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+}
+
+/* Nav styling */
+
+ul {
+  display: flex;
+  justify-content: center;
+}
+
+ul li {
+  text-decoration: none;
+  list-style: none;
+  padding: 0 15px;
+}
